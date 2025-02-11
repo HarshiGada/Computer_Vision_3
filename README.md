@@ -1,7 +1,7 @@
 # Computer_Vision_3
 Determine and visualize HoG of image
 
-The objective of this experiment is to compute and visualize the Histogram of Oriented Gradients (HoG) features of an image and analyze how parameter changes affect the results.
+The objective is to compute and visualize the Histogram of Oriented Gradients (HoG) features of an image and analyze how parameter changes affect the results.
 
 Resize the Image: Ensure that the given image is resized to dimensions that are multiples of 8.
 Compute HoG Features: Use an 8×8 pixels per cell and 2×2 cells per block configuration to extract HoG features.
